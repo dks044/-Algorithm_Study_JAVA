@@ -11,3 +11,5 @@ https://blog.naver.com/buzz7811/223018146642
 [02] 가장 뛰어난 오류 탐색 방법, 디버깅 (코드의 논리 오류를 어떻게 잡을까?)
 https://blog.naver.com/buzz7811/223049386238
 ## **Chapter2 코딩 테스트 - 기초편**
+[03] 자료구조   
+https://blog.naver.com/buzz7811/223051620455
