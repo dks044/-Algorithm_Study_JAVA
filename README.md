@@ -12,7 +12,7 @@ https://blog.naver.com/buzz7811/223070018106
 https://blog.naver.com/buzz7811/223070259296
 
 ## **Chapter1 코딩테스트 준비하기**
-[01] 알고리즘의 선택의 기준이 되는 '시간복잡도'
+[01] 알고리즘의 선택의 기준이 되는 '시간복잡도'   
 https://blog.naver.com/buzz7811/223018146642   
 [02] 가장 뛰어난 오류 탐색 방법, 디버깅 (코드의 논리 오류를 어떻게 잡을까?)
 https://blog.naver.com/buzz7811/223049386238
@@ -22,6 +22,6 @@ https://blog.naver.com/buzz7811/223051620455
 [03-2] 자료구조 (구간합)   
 https://blog.naver.com/buzz7811/223052873164   
 [03-2] 자료구조 (구간합) - (추가 : 문제004 구간합 구하기2), 2차원배열 구간합  
-https://blog.naver.com/buzz7811/223056097397
+https://blog.naver.com/buzz7811/223056097397   
 [03-3] 자료구조 (투 포인터)(백준 | 2018번, 1253번)
 https://blog.naver.com/buzz7811/223075278784
