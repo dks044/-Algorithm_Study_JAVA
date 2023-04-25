@@ -26,4 +26,6 @@ https://blog.naver.com/buzz7811/223056097397
 [03-3] 자료구조 (투 포인터)(백준 | 2018번, 1253번)   
 https://blog.naver.com/buzz7811/223075278784   
 [03-4] 자료구조(슬라이딩 윈도우)   
-https://blog.naver.com/buzz7811/223084797309
+https://blog.naver.com/buzz7811/223084797309   
+[03-5] 스택과 큐 (백준 1874, 2164)   
+https://blog.naver.com/buzz7811/223084950457
